@@ -10,7 +10,7 @@ This addon automatically changes the theme of Godot based on your OS theme.
 5. Reload the project if necessary.
 6. Set the light and dark theme to be used in the Editor Preferences (Add-ons > Theme Switcher).
 
-![](readme\picture.png)
+![](./readme/picture.png)
 
 7. Reload the project if necessary.
 
