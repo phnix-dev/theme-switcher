@@ -16,7 +16,7 @@ This addon automatically changes the theme of Godot based on your OS theme.
 
 ## Roadmap
 
-- [ ] Make it possible to change Godot's accent color.
+- [x] Make it possible to change Godot's accent color.
 
 ## License
 
